@@ -1,0 +1,31 @@
+Nuget para Instalar
+
+Click derecho en solucion
+	Manage Nuget packages
+	
+============
+
+- Necesarios
+MediatR by Jimmy Board
+	-> Instalamos en src/Presentation/WebAPI
+MediatR.Extensions.Microsoft.DependencyInjection by Jimmy Board 
+	-> Instalamos en src/Core/Application
+
+- Otros     -> Ya no es necesario el siguiente nuget ya que ya esta instalado en la version de .net 6 en adelante
+AutoMapper.Extensions.Microsoft.DependencyInjection -> Es un pluggin que nos permite hacer el mapeo de obj, nos permite devolver nuestros DTO a travez de nuestra WebAPI
+	-> Instalamos en src/Core/Application
+AutoMapper 
+	-> Instalamos en src/Core/Application
+FluentValidation -> es un nuget que nos permite hacer validaciones con reglas fuertemente tipadas
+	-> Instalamos en src/Core/Application
+FluentValidation.DependencyInjectionExtensions
+	-> Instalamos en src/Core/Application
+
+===============
+
+Una vez creado el metodo AddApplicationLayer}
+debemos agregar la referencia de la capa Application a nuestra capa WebAPI
+
+
+	
+	
