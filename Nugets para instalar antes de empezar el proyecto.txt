@@ -29,3 +29,20 @@ debemos agregar la referencia de la capa Application a nuestra capa WebAPI
 
 	
 	
+-- NUGET NECESARIOS PARA LA CONEXION A LA BASE DE DATOS SQL SERVER
+
+Instalar en src/Infraestructure/Persistence  los siguientes Nuget
+	- Microsoft.EntityFrameworkCore
+	- Microsoft.EntityFrameworkCore.SqlServer
+	- Microsoft.Extensions.Options.ConfigurationExtensions
+
+
+
+-- Nuget
+Adalis.Specification	Va a ayudar a instalar implementar el patron repositorio y nos va a permitir manejar de manera sensilla 
+						toda la gestion de nuestra base de datos a travez de un repositorio generico 
+	-> Instalar en src/Core/Application
+Ardalis.Specification.EntityFrameworkCore	Este Nuget ya implementa el patron repositorio, por lo tanto la abstraccion estara implementada en 
+											nuestro Core, pero nuestra persistencia vamos a implementar el EntityFrameworkCore
+											Contiene el evaluador y la abstraccion de repositorio
+	- Instalar en src/Core/Application 

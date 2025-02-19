@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dalvarez\\Desktop\\CSharp\\BancoCursoRESTfull\\",
+  "WorkspaceRootPath": "C:\\SPV\\BancoCursoRESTfull\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C4FC370-5AE5-4D55-B020-02EFB5758DEC}|WebAPI\\WebAPI.csproj|c:\\users\\dalvarez\\desktop\\csharp\\bancocursorestfull\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C4FC370-5AE5-4D55-B020-02EFB5758DEC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7C17C10-2CD1-4007-B839-C914366B74E8}|Application\\Application.csproj|c:\\users\\dalvarez\\desktop\\csharp\\bancocursorestfull\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7C17C10-2CD1-4007-B839-C914366B74E8}|Application\\Application.csproj|solutionrelative:application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D068B4B8-5CD7-4179-8F48-BAD95EBD9654}|Persistence\\Persistence.csproj|c:\\spv\\bancocursorestfull\\persistence\\repository\\myrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D068B4B8-5CD7-4179-8F48-BAD95EBD9654}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repository\\myrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,27 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\CSharp\\BancoCursoRESTfull\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\CSharp\\BancoCursoRESTfull\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Title": "MyRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\SPV\\BancoCursoRESTfull\\Persistence\\Repository\\MyRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repository\\MyRepositoryAsync.cs",
+              "ToolTip": "C:\\SPV\\BancoCursoRESTfull\\Persistence\\Repository\\MyRepositoryAsync.cs",
+              "RelativeToolTip": "Persistence\\Repository\\MyRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T22:33:42.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\dalvarez\\Desktop\\CSharp\\BancoCursoRESTfull\\Application\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Application\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\dalvarez\\Desktop\\CSharp\\BancoCursoRESTfull\\Application\\ServiceExtensions.cs",
-              "RelativeToolTip": "Application\\ServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T11:53:22.229Z",
+              "WhenOpened": "2025-02-18T13:11:08.046Z",
               "EditorCaption": ""
             }
           ]
