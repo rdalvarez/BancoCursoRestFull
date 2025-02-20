@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\SPV\\BancoCursoRESTfull\\",
+  "WorkspaceRootPath": "C:\\GitPer\\BancoCursoRESTfull\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D068B4B8-5CD7-4179-8F48-BAD95EBD9654}|Persistence\\Persistence.csproj|c:\\spv\\bancocursorestfull\\persistence\\repository\\myrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7C17C10-2CD1-4007-B839-C914366B74E8}|Application\\Application.csproj|c:\\gitper\\bancocursorestfull\\application\\features\\clientes\\commands\\createclientecommand\\createclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C17C10-2CD1-4007-B839-C914366B74E8}|Application\\Application.csproj|solutionrelative:application\\features\\clientes\\commands\\createclientecommand\\createclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D068B4B8-5CD7-4179-8F48-BAD95EBD9654}|Persistence\\Persistence.csproj|c:\\gitper\\bancocursorestfull\\persistence\\repository\\myrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D068B4B8-5CD7-4179-8F48-BAD95EBD9654}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repository\\myrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C17C10-2CD1-4007-B839-C914366B74E8}|Application\\Application.csproj|c:\\gitper\\bancocursorestfull\\application\\interfaces\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C17C10-2CD1-4007-B839-C914366B74E8}|Application\\Application.csproj|solutionrelative:application\\interfaces\\irepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,12 +59,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreateClienteCommand.cs",
+              "DocumentMoniker": "C:\\GitPer\\BancoCursoRESTfull\\Application\\Features\\Clientes\\Commands\\CreateClienteCommand\\CreateClienteCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Clientes\\Commands\\CreateClienteCommand\\CreateClienteCommand.cs",
+              "ToolTip": "C:\\GitPer\\BancoCursoRESTfull\\Application\\Features\\Clientes\\Commands\\CreateClienteCommand\\CreateClienteCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Clientes\\Commands\\CreateClienteCommand\\CreateClienteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:31:09.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\GitPer\\BancoCursoRESTfull\\Application\\Interfaces\\IRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IRepositoryAsync.cs",
+              "ToolTip": "C:\\GitPer\\BancoCursoRESTfull\\Application\\Interfaces\\IRepositoryAsync.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:17:28.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MyRepositoryAsync.cs",
-              "DocumentMoniker": "C:\\SPV\\BancoCursoRESTfull\\Persistence\\Repository\\MyRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\GitPer\\BancoCursoRESTfull\\Persistence\\Repository\\MyRepositoryAsync.cs",
               "RelativeDocumentMoniker": "Persistence\\Repository\\MyRepositoryAsync.cs",
-              "ToolTip": "C:\\SPV\\BancoCursoRESTfull\\Persistence\\Repository\\MyRepositoryAsync.cs",
+              "ToolTip": "C:\\GitPer\\BancoCursoRESTfull\\Persistence\\Repository\\MyRepositoryAsync.cs",
               "RelativeToolTip": "Persistence\\Repository\\MyRepositoryAsync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T13:11:08.046Z",
               "EditorCaption": ""
